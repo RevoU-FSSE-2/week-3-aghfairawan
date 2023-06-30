@@ -3,10 +3,10 @@
 # Bang DODO FanBoy Website
 This website was created to fulfill the assignment from the first week as one of the graduation requirements in the RevoU Software Engineer program class.
 
-![image.png](website.png) 
+![image.png](website.pnghttps://github.com/RevoU-FSSE-2/week-3-aghfairawan/blob/main/website.PNG) 
 
 
-![image.png](dark.png)
+![image.png](dark.pnghttps://github.com/RevoU-FSSE-2/week-3-aghfairawan/blob/main/dark.PNG)
 
 This website create with :
 - HTML
