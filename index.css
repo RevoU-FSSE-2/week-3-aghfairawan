@@ -329,4 +329,15 @@ legend{
   
 }
 
+@font-face {
+  font-family: Jakarta-Sans;
+  src: url(fonts/PlusJakartaSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: Jakarta-Sans;
+  src: url(fonts/PlusJakartaSans-Bold.ttf);
+  font-weight: bold;
+}
+
   
