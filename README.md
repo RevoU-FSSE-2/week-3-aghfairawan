@@ -20,7 +20,7 @@ This website create with :
 - Using Flex Layout
 - Dark mode Theme
 
-The result [Website](https://dark-mode-cr7.netlify.app/)
+The result [Website](https://bang-do-fanboy-apps.netlify.app)
 
 # Learn More
 - [W3school](https://www.w3schools.com/) 
